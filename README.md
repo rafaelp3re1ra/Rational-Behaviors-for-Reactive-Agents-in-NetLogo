@@ -7,8 +7,7 @@ This repository contains an academic project designed to simulate **rational beh
 The simulation explores how reactive agents can behave rationally to achieve specific objectives in a constrained environment. The agents are tasked with:
 - Collecting and depositing waste.
 - Managing energy levels by recharging at designated stations.
-- Navigating around obstacles.
-- Using improved movement.
+- Navigating around obstacles efficiently.
 
 The goal is to evaluate the effectiveness of their behaviors and improve their performance through strategic modifications.
 
