@@ -44,4 +44,4 @@ The project includes a detailed experimental analysis of agent performance under
 
 ## Authors
 - [Rafael Pereira](https://github.com/rafaelp3re1ra)
-- [Fábio Oliveira](https://github.com/fab1loso)
+- [Fábio Oliveira](https://github.com/fabiooliv3ira)
